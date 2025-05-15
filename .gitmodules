@@ -1,0 +1,3 @@
+[submodule "submodules/client"]
+	path = submodules/client
+	url = https://github.com/SalvM/Godot-multiplayer-battle-client.git
