@@ -1,0 +1,7 @@
+[submodule "sub/Godot-multiplayer-battle-server"]
+    path = sub/Godot-multiplayer-battle-server
+    url = https://github.com/SalvM/Godot-multiplayer-battle-server.git
+
+[submodule "sub/Godot-multiplayer-battle-client"]
+    path = sub/Godot-multiplayer-battle-client
+    url = https://github.com/SalvM/Godot-multiplayer-battle-client.git
